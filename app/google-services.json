@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418889657784",
+    "project_id": "starlink-1e7b3",
+    "storage_bucket": "starlink-1e7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418889657784:android:46d85c4b08d965aa1b734d",
+        "android_client_info": {
+          "package_name": "com.example.starlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418889657784-ki0hqva5gn3t41aquq93747s4r6cdrdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsAEUOP10yCaVZrw-r0430STzGN9a8Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418889657784-ki0hqva5gn3t41aquq93747s4r6cdrdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
